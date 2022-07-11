@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/Music_Tubiao.png</file>
+    </qresource>
+</RCC>
